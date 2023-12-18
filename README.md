@@ -1,0 +1,2 @@
+# CamCalib2World3D
+仓库关注于相机标定和从2D图像坐标到3D世界坐标的转换(Cam2World3D)
