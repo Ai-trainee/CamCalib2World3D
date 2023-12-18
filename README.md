@@ -35,7 +35,6 @@ python run_calib_IR.py
 ![Snipaste_2023-08-28_16-07-45.png](doc%2FSnipaste_2023-08-28_16-07-45.png)
 ![Snipaste_2023-08-28_16-10-03.png](doc%2FSnipaste_2023-08-28_16-10-03.png)
 ![Snipaste_2023-08-28_16-50-48.png](doc%2FSnipaste_2023-08-28_16-50-48.png)
-![Snipaste_2023-09-01_14-03-59.png](doc%2FSnipaste_2023-09-01_14-03-59.png)
 ![Snipaste_2023-09-01_17-30-18.png](doc%2FSnipaste_2023-09-01_17-30-18.png)
 ## 如何贡献
 我们欢迎所有形式的贡献，无论是新功能的建议、代码修正还是文档更新。
