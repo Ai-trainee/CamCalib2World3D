@@ -41,7 +41,7 @@ python run_calib_IR.py
 
 ## 联系方式
 如果您有任何问题或建议，请通过以下方式联系我们：
-- 邮箱：[邮箱]
+- 邮箱：[xx邮箱]
 - GitHub Issue：[链接到仓库的 Issues 页面]
 
 ```
