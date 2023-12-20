@@ -28,7 +28,7 @@ cd CamCalib2World3D
 ```bash
 # 运行RGB相机标定
 python run_calib_RGB.py
-# 运行红外相机标定
+# 运行RGB相机标定后去畸变
 python run_calib_IR.py
 ```
 ## 演示
